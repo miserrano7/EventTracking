@@ -1,6 +1,10 @@
 # URL to Website
 [Follow the link here to see our Heroku app (may take a few seconds to load after logging in)](https://swe-event-tracker.herokuapp.com/)
 
+Heroku is removing their free version starting on Npvember 28, 2022. Our deployment link may or may not be working anymore.<br>
+[https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq)
+[https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/](https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/)
+
 # Contributors
 1. Trien Hong
 2. Michelle Serrano
